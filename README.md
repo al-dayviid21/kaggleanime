@@ -21,7 +21,7 @@ Answers to these questions will help anime watchers in choosing the right anime 
 There is 1 notebook available here to showcase work related to the questions posed above. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results
-The main findings of the code can be found at the post available <a href=''>here</a>.
+The main findings of the code can be found at the post available <a href='https://medium.com/@davidalabintei97/do-you-want-to-watch-the-best-anime-in-the-last-5-years-3683e3d017ee'>here</a>.
 
 ## Licensing, Authors, and Acknowledgements
 MyAnimeList is due credit for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available <a href='https://www.kaggle.com/datasets/tarundalal/anime-dataset?resource=download'>here</a>. Otherwise, feel free to use the code here as you would like!
